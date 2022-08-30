@@ -190,4 +190,4 @@ async def map(ctx, player_country_list):
 async def help(ctx):
     await ctx.send("""```Bot hakkında bilgi edinmek için Discord: https://discord.gg/ZrU9xvyN2A adresini ziyaret ediniz. ```""")
 
-bot.run('#####')
+bot.run('MTAxNDE5ODQwNjAyMjk2MzMxMw.Giig8Y.nMPc9y1rO5eCW1lgZFue2eKFpoi_w9FGgXf9cc')
