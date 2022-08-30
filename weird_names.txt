@@ -1,0 +1,7 @@
+Muscovy = Muscowy
+Vijayanagar = Vijaynagara
+Tunis = Tunisia
+Mamluks = Burgi
+Hejaz = Hedjaz
+Timurids = Timurid
+Kilwa = Swahili
